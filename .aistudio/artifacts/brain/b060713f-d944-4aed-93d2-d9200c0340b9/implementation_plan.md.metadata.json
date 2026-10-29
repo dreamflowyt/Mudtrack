@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for SANDHAUL MVP, a 2D physics delivery game combining a custom cellular automata falling-sand terrain simulation with Planck.js rigid-body vehicle dynamics, grappling hook and winch, dual engine/electric drive, cargo integrity, and a 5-level campaign with garage upgrades.",
+  "updatedAt":  "2026-10-29T22:32:39.849296625Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

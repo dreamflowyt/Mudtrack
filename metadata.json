@@ -1,0 +1,7 @@
+{
+  "name": "SANDHAUL — 2D Physics Delivery & Particle-Sim World",
+  "description": "Drive a delivery truck across dynamic sand, mud, and water terrain with realistic 2D physics, winch recovery, and cargo challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
